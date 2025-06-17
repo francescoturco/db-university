@@ -1,3 +1,3 @@
-SELECT COUNT(*)
+SELECT COUNT(*) AS `Totale`
 FROM `departments`;
 
